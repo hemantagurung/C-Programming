@@ -19,3 +19,6 @@ int power(int base, int a) {
 }
 
 //output
+Enter base number: 3
+Enter power number(positive integer): 4
+3^4 = 81
