@@ -25,3 +25,14 @@ Enter power number(positive integer): 4
 
 
 output
+
+
+Enter 1st distance
+Enter feet: 23
+Enter inch: 8.6
+
+Enter 2nd distance
+Enter feet: 34
+Enter inch: 2.4
+
+Sum of distances = 57'-11.0"
