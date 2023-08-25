@@ -21,5 +21,8 @@ int main() {
     return 0;
 }
 
+
+OUTPUT
+
 Enter an integer: 1001
 1001 is a palindrome.
